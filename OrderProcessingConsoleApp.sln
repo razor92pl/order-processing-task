@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D17F839C-7C7D-4188-85AE-3947A424EDDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessingConsoleApp", "src\OrderProcessingConsoleApp\OrderProcessingConsoleApp.csproj", "{995599BC-582C-4AE7-8A85-79EBF650E384}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{361FC155-97C7-4AB0-B866-8CDDC72BA3C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessingConsoleApp.Tests", "tests\OrderProcessingConsoleApp.Tests\OrderProcessingConsoleApp.Tests.csproj", "{EA685194-4CF9-49E0-9E29-FD62CA93ABB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995599BC-582C-4AE7-8A85-79EBF650E384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995599BC-582C-4AE7-8A85-79EBF650E384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995599BC-582C-4AE7-8A85-79EBF650E384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995599BC-582C-4AE7-8A85-79EBF650E384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA685194-4CF9-49E0-9E29-FD62CA93ABB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA685194-4CF9-49E0-9E29-FD62CA93ABB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA685194-4CF9-49E0-9E29-FD62CA93ABB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA685194-4CF9-49E0-9E29-FD62CA93ABB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{995599BC-582C-4AE7-8A85-79EBF650E384} = {D17F839C-7C7D-4188-85AE-3947A424EDDD}
+		{EA685194-4CF9-49E0-9E29-FD62CA93ABB6} = {361FC155-97C7-4AB0-B866-8CDDC72BA3C8}
+	EndGlobalSection
+EndGlobal
