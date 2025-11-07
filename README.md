@@ -17,7 +17,7 @@ The solution demonstrates:
 ## 🚀 Usage
 1️⃣ Clone the repository
 ```bash
-    git clone https://github.com/razor92pl/order-processing-task
+    git clone https://github.com/razor92pl/order-processing-task.git
     cd order-processing-task
 ```
 2️⃣ Restore dotnet dependencies
