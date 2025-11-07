@@ -71,8 +71,10 @@ tests/
 ```
 
 ## Completed Bonus Tasks
+```text
 ✅ Asynchronous Processing
 ✅ Add Order (CRUD)
 ✅ IOrderValidator
 ✅ Unit Tests
 ✅ Notification Service (was commented out in the online IDE to keep console results clean and easy to read)
+```
