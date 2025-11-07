@@ -40,7 +40,7 @@ The solution demonstrates:
 
 
 ## Architecture Diagram (text)
-
+```text
 src/
  └── OrderProcessingConsoleApp/
       ├── Interfaces/
@@ -68,7 +68,7 @@ src/
 tests/
  └── OrderProcessingConsoleApp.Tests/
       └── OrderProcessingTests.cs
-
+```
 
 ## Completed Bonus Tasks
 ✅ Asynchronous Processing
